@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { singInUser } from "../features/createUser";
+import { singInUser } from "../features/userAuthServise";
 
 interface Props {}
 const SingIn = (props: Props) => {
